@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "191510673286",
+    "firebase_url": "https://pocketoffice-de047.firebaseio.com",
+    "project_id": "pocketoffice-de047",
+    "storage_bucket": "pocketoffice-de047.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191510673286:android:0f9a93ce9972dff6",
+        "android_client_info": {
+          "package_name": "com.example.proloy.office_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191510673286-bvfppdl2lj16plc17h2b4c4gohl89e12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgQtUpQtjAjeH8Cx8AZSAXU5UM5lBDyws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
